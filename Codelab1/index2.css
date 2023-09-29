@@ -1,0 +1,9 @@
+table {
+  background-color: gold;
+}
+td {
+  text-align: center;
+  color: black;
+  border: 1px solid;
+  padding: 5px;
+}
